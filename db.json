@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Shailendra",
+      "password": "loremipsum"
+    }
+  ],
+  "books": [
+    {
+      "description": "Edit Descriptiondafadsfadfasd",
+      "name": "Harry Potter",
+      "author": "JK Rowling",
+      "id": "zY0Y66E"
+    }
+  ]
+}
